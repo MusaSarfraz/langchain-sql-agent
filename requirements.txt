@@ -1,0 +1,7 @@
+ibm-watsonx-ai
+ibm-watson-machine-learning
+langchain
+langchain-community
+mysql-connector-python
+sqlalchemy
+python-dotenv
